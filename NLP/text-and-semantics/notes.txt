@@ -1,0 +1,14 @@
+creating a simple classifier
+
+putting docs into a bag of words
+
+constructing an N-gram model
+
+representing text with tf-idf
+
+using word embeddings
+
+traning your own embedddings
+
+using bert and openAI embeddings
+
