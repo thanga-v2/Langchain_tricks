@@ -1,0 +1,6 @@
+LLM -> Employs the NN to recgnize the patterns and relationship within the Language.
+
+Is LLM restricted to Language ? 
+Can it learn a new language ? 
+can I use LLM as a translator ?
+
